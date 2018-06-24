@@ -13,8 +13,4 @@ UCLASS()
 class DEFENDERS_API ADefendersGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
 };
